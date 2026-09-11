@@ -2,6 +2,7 @@
 # Face Mask Detection Dashboard
 
 This project is a computer vision classification model designed to detect whether a person is wearing a face mask correctly, incorrectly, or not at all. It features a deep learning pipeline built with TensorFlow/Keras and includes a web-based interactive dashboard for real-time inference.
+Live App:https://9c3ec442945d93a69f.gradio.live/
 
 ## Overview
 
