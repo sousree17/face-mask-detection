@@ -1,8 +1,3 @@
-Here is a professional `README.md` file based on the code you uploaded. It highlights the deep learning concepts used, the model architecture, and the web interface you built.
-
-You can copy this text, go to your `face-mask-detection` repository on GitHub, click **Add file** > **Create new file**, name it `README.md`, and paste this directly into the editor.
-
----
 
 # Face Mask Detection Dashboard
 
